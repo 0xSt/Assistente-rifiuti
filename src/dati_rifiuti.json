@@ -1,0 +1,30 @@
+[
+    {
+        "rifiuto": "Dove buttare Abito usato?",
+        "url_fonte": "https://www.asianapoli.it/dove-lo-butto/abito-usato/",
+        "luoghi_conferimento": [
+            {
+                "nome": "Contenitore Abiti Usati",
+                "istruzioni": "Nessuna istruzione aggiuntiva."
+            },
+            {
+                "nome": "Isola Ecologica Estesa",
+                "istruzioni": "Lo puoi conferire presso le Isole Ecologiche Estese, aree attrezzate per la raccolta e l'avvio al recupero di rifiuti consegnati gratuitamente dai cittadini."
+            },
+            {
+                "nome": "Isola Ecologica Ridotta",
+                "istruzioni": "Lo puoi conferire presso le Isole Ecologiche Ridotte, aree attrezzate per la raccolta e l'avvio al recupero di rifiuti consegnati gratuitamente dai cittadini."
+            }
+        ]
+    },
+    {
+        "rifiuto": "Dove buttare Antenna?",
+        "url_fonte": "https://www.asianapoli.it/dove-lo-butto/antenna/",
+        "luoghi_conferimento": [
+            {
+                "nome": "Isola Ecologica Estesa",
+                "istruzioni": "Lo puoi conferire presso le Isole Ecologiche Estese, aree attrezzate per la raccolta e l'avvio al recupero di rifiuti consegnati gratuitamente dai cittadini."
+            }
+        ]
+    }
+]
